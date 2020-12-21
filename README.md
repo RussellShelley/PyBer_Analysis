@@ -15,8 +15,7 @@ Jupyter notebook
 
 ## Results
 
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
+
 
 
 [Code for this analysis](PyBer_Challenge.ipynb)
@@ -66,7 +65,7 @@ Combining the city_data and ride_data we are able the following by summary for e
 * Rural cities are a lot lower: the highest total is ~$500 but they are usually around half that.
 
 * The third week of February was a great week for all city types.
-## City Type
+## City Types
 * Urban cities - High Totals due to very large number of drivers bringing in smaller fares.
 
 * Suburban cities have 50% of the total fares of Urban with just ~20% of the drivers, and ~30% of the rides compared to Urban. Each driver brings in higher fares, and the average ride is longer.
@@ -75,7 +74,7 @@ Combining the city_data and ride_data we are able the following by summary for e
 
 
 ## Summary
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
 
 * Although rural cities provide least revenue. The individual drivers earn the most.  Adding more high earning rural drivers could help increase rural revenue.  We could also aim to increase short journeys in rural areas.
 
