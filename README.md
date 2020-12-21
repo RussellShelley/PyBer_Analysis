@@ -1,5 +1,5 @@
-# PyBer Analysis
-## Pyber Fares by City Type.
+# PyBer Analysis - Fares by City Type.
+
 
 ## Overview 
 
@@ -21,7 +21,7 @@ There is a description of the differences in ride-sharing data among the differe
 
 [Code for this analysis](PyBer_Challenge.ipynb)
 
-Combining the city_data and ride_data we are able the following by summary for each city type. 
+Combining the city_data and ride_data we are able the following by summary for each city type.  We can see the experince for drivers is quite different for each city type.
 
 
 ![PyBer Summary](analysis/Pybar_Summary.png)
@@ -71,7 +71,7 @@ Combining the city_data and ride_data we are able the following by summary for e
 
 * Suburban cities have 50% of the total fares of Urban with just ~20% of the drivers, and ~30% of the rides compared to Urban. Each driver brings in higher fares, and the average ride is longer.
 
-* Rural cities have lowest total fares, ~8% of Urban cities.  They have fewer drivers, that earn higher fares. The rides are longer.
+* Rural cities have lowest total fares earned, ~8% of Urban cities.  They have much fewer drivers, that earn much higher fares. The rural rides are longer.
 
 
 ## Summary
@@ -81,5 +81,5 @@ Summary: Based on the results, provide three business recommendations to the CEO
 
 * Urban cities have the highest total drivers and fares, but the lowest averages for per driver and per trip fares.  This is likely due to urban folk taking shorter rides.  If we looked to ways of encouraging riders to travel further, perhaps partnering/advertising with destinations on the peripheries of town such as airports, theme parks we could increase driver averages.  
 
-* 
+* Although we have seen Pyber experience is a different experiece in all city types. We can see they follow a similar course throughout the year. They all had a peak on the third week of February, it is worth exploring further to see if we can find the cause.  
 
