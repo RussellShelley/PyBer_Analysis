@@ -23,7 +23,7 @@ Jupyter notebook
 Combining the city_data and ride_data we are able the following by summary for each city type.  We can see the experince for drivers is quite different for each city type.
 
 
-![PyBer Summary](analysis/Pybar_Summary.png)
+![PyBer Summary](analysis/Pyber_Table_summary.png)
 
 ### Total rides
  * Urban cities have by far the most rides at 1625.
@@ -55,7 +55,7 @@ Combining the city_data and ride_data we are able the following by summary for e
 
 
 
-![Total Fare By City Type](analysis/Total_Fare_By_City_Type.png)
+![Total Fare By City Type](analysis/PyBer_fare_summary.png)
 ### Total fares by city type. (January 2019 through April 2019)
 
 * We can see that Urban cities accrue the highest total fares. Up $2500 a week, rarely below $2000
